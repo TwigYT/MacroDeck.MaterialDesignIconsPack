@@ -1,0 +1,10 @@
+{
+   "type": "IconPack",
+   "name": "Material Design Icons Pack",
+   "author": "TwigYT",
+   "repository": "https://github.com/TwigYT/TwigYT.MacroDeck.MaterialDesignIconsPack",
+   "packageId": "TwigYT.MacroDeck.MaterialDesignIconsPack",
+   "version": "1.0.0",
+   "target-plugin-api-version": 40,
+   "target-macro-deck-version": "2.14.1"
+}
