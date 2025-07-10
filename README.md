@@ -1,8 +1,18 @@
+<div align="center">
+   ![Screenshot of icons in macro deck](https://raw.githubusercontent.com/TwigYT/MacroDeck.MaterialDesignIconsPack/refs/heads/main/Screenshots/Screenshot1.png)
+</div>
+
 # [Material Design Icons](https://icon-sets.iconify.design/mdi/) for [Macro Deck](https://macro-deck.app/)
 
 A beautiful icon pack to make your macro deck buttens better then ever!
 
 Includes icons that are specifically for content creators.
+
+You can use these icons for streaming, recording, or just controlling your setup!
+
+<div align="center">
+   ![Screenshot of streaming setup in macro deck](https://raw.githubusercontent.com/TwigYT/MacroDeck.MaterialDesignIconsPack/refs/heads/main/Screenshots/Screenshot2.png)
+</div>
 
 ## Contributing
 
