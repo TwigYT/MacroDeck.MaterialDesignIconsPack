@@ -22,6 +22,6 @@ You can use these icons for streaming, recording, or just controlling your setup
 
 If you want to contribute to this project, please visit [CONTRIBUTING.md](https://github.com/TwigYT/MacroDeck.MaterialDesignIconsPack/blob/main/CONTRIBUTING.md)
 
-## licensing
+## Licensing
 
 All images in this pack are under the [Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0) (https://www.apache.org/licenses/LICENSE-2.0)
